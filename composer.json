@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "goalgorilla/open_social": "~11.10.2",
+        "flyingflip/open_social": "~11.10.2",
         "php": "^8.1",
         "monolog/monolog": "^2.3.5"
     },
@@ -38,7 +38,7 @@
                 "type:drupal-module"
             ],
             "html/profiles/contrib/social": [
-                "goalgorilla/open_social"
+                "flyingflip/open_social"
             ],
             "html/profiles/contrib/{$name}": [
                 "type:drupal-profile"
