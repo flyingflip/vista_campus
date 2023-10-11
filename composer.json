@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "flyingflip/open_social": "~11.10.3",
+        "flyingflip/open_social": "~11.10.4",
         "flyingflip/opigno_lms": "dev-main",
         "php": "^8.1",
         "monolog/monolog": "^2.3.5"
