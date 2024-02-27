@@ -6,7 +6,7 @@
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
-        "flyingflip/open_social": "dev-main",
+        "flyingflip/open_social": "dev-drupal10",
         "php": "^8.1",
         "monolog/monolog": "^2.3.5"
     },
